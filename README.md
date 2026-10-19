@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0984E3,100:00CEC9&height=220&section=header&text=Meridian&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Low-Latency%20Order%20Matching%20Engine%20%26%20Paper%20Trading%20Terminal&descSize=18&descAlignY=68" alt="Meridian banner" width="100%">
+![Meridian banner](./banner.svg "Meridian banner")
 
 <a href="https://github.com/AadityaBarapatre/Meridian">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0984E3&center=true&vCenter=true&width=780&lines=Handcrafted+DSA+Core%3A+Treap+(BST+%2B+Heap)+%7C+Doubly-LL;O(1)+Order+Cancellations+%7C+O(log+P)+Depth+Rebalancing;Bounded+Circular+Ring+Buffer+%7C+O(K)+Trie+Autocomplete;Dual-Runtime+Parity%3A+Python+3+(FastAPI)+%26+TypeScript+(Node.js)" alt="Meridian typing animation">
